@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:1:1-41:12
+	package
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:2:5-33
+		INJECTED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:5:5-41
+	android:versionName
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:11:5-39:19
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:15:9-45
+	android:label
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:12:9-38
+	android:theme
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:14:9-40
+service#jp.live2d.asuna_26.LiveWallpaperService
+ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:27:9-38:13
+	android:label
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:29:7-52
+	android:permission
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:30:7-61
+	android:name
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:28:7-61
+intent-filter#android.service.wallpaper.WallpaperService
+ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:31:7-33:23
+action#android.service.wallpaper.WallpaperService
+ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:32:11-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:32:19-76
+meta-data#android.service.wallpaper
+ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:35:7-37:47
+	android:resource
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:37:11-44
+	android:name
+		ADDED from D:\AndroidStudioProjects\L2DWallpaper\app\src\main\AndroidManifest.xml:36:11-51
